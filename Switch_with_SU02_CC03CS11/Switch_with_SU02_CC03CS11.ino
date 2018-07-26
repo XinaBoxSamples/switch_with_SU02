@@ -1,7 +1,7 @@
-#include <xCore.h>
-#include <xOD01.h>
+#include <xCore.h> //found @ https://github.com/xinabox/xCore
+#include <xOD01.h> //found @ https://github.com/xinabox/xOD01
+#include <xSU02.h> //found @ https://github.com/xinabox/xSU02
 #include "TIMER_CTRL.h"
-#include <xSU02.h>
 
 #if defined(ESP8266)
 #define RED   RED
